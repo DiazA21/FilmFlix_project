@@ -1,10 +1,8 @@
 Options Menu:
-Please enter your choice (1-5):
+Please enter your choice (1-6):
 1. Add a Film record to the database.
 2. Delete a Film record from the database.
 3. Amend a Film record in the database.
 4. Display all records in the database.
 5. Create a report.  
 6. Exit the program.
-
-
